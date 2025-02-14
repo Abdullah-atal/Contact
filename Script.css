@@ -1,3 +1,24 @@
 header{
-  display: inline-block;
+  border:2px solid black;
+  border-radius: 30px;
+  padding-top: 10px;
+}
+img{
+  border-top-left-radius: 30px;
+}
+pre{
+  font-size: 15px;
+}
+#whatsapp{
+  border-top-left-radius: 30px;
+  border-top-right-radius: 30px;
+  margin-top: 20px;
+}
+a{
+  border: 2px solid black;
+  display: block;
+  margin: 2px;
+  padding: 20px;
+  text-decoration: none;
+  color: black;
 }
